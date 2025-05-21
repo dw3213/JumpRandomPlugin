@@ -1,0 +1,6 @@
+name: JumpRandom
+version: 1.0
+main: com.example.jumprandom.JumpRandomPlugin
+api-version: 1.16
+author: ChatGPT
+description: 플레이어 점프 높이를 랜덤하게 변경하는 플러그인
